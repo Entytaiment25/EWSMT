@@ -13,8 +13,8 @@ title "EWSMT"
 :: Step 1. List the Application Names
 set "App[1]=Stop http (frees port 80)"
 set "App[2]=Open FxServer Ports (in/out)"
-set "App[3]=Taskkill FxServer Instance"
-set "App[4]=Close FxServer Ports (in/out)"
+set "App[3]=Close FxServer Ports (in/out)"
+set "App[4]=Taskkill FxServer Instance"
 set "App[5]=Exit"
 rem set "App[6]=Exit"
 
@@ -26,7 +26,7 @@ color 04
 echo.%Message%
 echo.
 echo.  Enty`s Windows Server Managment Tool
-echo.  Version: 1.2.0
+echo.  Version: 1.2.1
 echo.
 set "x=0"
 :MenuLoop
