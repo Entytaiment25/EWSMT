@@ -10,3 +10,8 @@ selectable options:
 
 Preview:
 <img src="https://media.discordapp.net/attachments/907259669993648158/1019975817155059772/unknown.png">
+
+### Future Plans...
+-> Rewrite it in Python
+-> Bug Fixes
+-> Settings...maybe..
