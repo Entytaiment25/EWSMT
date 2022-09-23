@@ -9,9 +9,9 @@ selectable options:
 -> More soon...<br>
 
 Preview:
-<img src="https://media.discordapp.net/attachments/907259669993648158/1019975817155059772/unknown.png">
+<img src="https://media.discordapp.net/attachments/907259669993648158/1019975817155059772/unknown.png"><br>
 
-### Future Plans...
--> Rewrite it in Python
--> Bug Fixes
--> Settings...maybe..
+### Future Plans...<br>
+-> Rewrite it in Python<br>
+-> Bug Fixes<br>
+-> Settings...maybe..<br>
