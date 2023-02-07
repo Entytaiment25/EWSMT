@@ -1,4 +1,6 @@
-# EWSMT - Enty`s Windows Server Managment Tool<br>
+# This Project is technicly working but very bugged and unmaintained.
+<br>
+## EWSMT - Enty`s Windows Server Managment Tool<br>
 
 ## This is a small batch script that gives you a few selectable options to save you work when it comes to annoying things like releasing ports for your FiveM server.<br>
 
