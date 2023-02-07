@@ -14,6 +14,6 @@ Preview:
 <img src="https://media.discordapp.net/attachments/907259669993648158/1019975817155059772/unknown.png"><br>
 
 ### Future Plans...<br>
--> Rewrite it in Python<br>
+-> Rewrite it in C#<br>
 -> Bug Fixes<br>
 -> Settings...maybe..<br>
